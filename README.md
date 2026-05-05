@@ -38,3 +38,4 @@ Want to get more involved with the Probot community? [Take a look at our communi
 ## License
 
 This website is licensed [CC-BY-4.0](LICENSE). The Probot logo is licensed [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). It was found on [wikimedia.org](https://commons.wikimedia.org/wiki/File:Robot-clip-art-book-covers-feJCV3-clipart.png) and is from clipartkid.com.
+
